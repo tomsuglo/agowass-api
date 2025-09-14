@@ -1,0 +1,30 @@
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.lock
+
+# Build artifacts
+dist/
+build/
+.expo/
+.expo-shared/
+
+# Local environments
+.env.local
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# Windows Local stuff
+AppData/
+*.tmp
+*.log
+*.ldb
+*.log.old
